@@ -1,0 +1,15 @@
+{
+  "name": "genpark-pairwise-preference-dpo-loss-tracker-skill",
+  "version": "1.0.0",
+  "description": "Direct Preference Optimization (DPO) implicit reward calculation and pairwise loss evaluation.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "dpo",
+    "preference-optimization",
+    "implicit-reward",
+    "policy-alignment",
+    "agentic-ai"
+  ]
+}
